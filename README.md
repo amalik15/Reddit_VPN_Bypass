@@ -2,6 +2,8 @@
 
 A Firefox extension that automatically creates dummy Reddit accounts when a VPN block is detected.
 
+Note; This is still a work in progress
+
 ## Features
 
 - Detects Reddit VPN block pages containing phrases like "You've been blocked by network security"
