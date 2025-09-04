@@ -7,7 +7,7 @@ A Firefox extension that automatically creates dummy Reddit accounts when a VPN 
 - Detects Reddit VPN block pages containing phrases like "You've been blocked by network security"
 - Automatically navigates to Reddit's signup page
 - Generates random account data with:
-  - 24-36-character alphanumeric email local part
+  - 16-24-character alphanumeric email local part
   - 12-character alphanumeric domain name
   - 16-character alphanumeric password
 - Automatically fills and submits the signup form
